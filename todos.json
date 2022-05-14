@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1, 
+        "title": "Incepcja", 
+        "year": 2010, 
+        "genre": "Sci-Fi", 
+        "description": "Czasy, gdy technologia pozwala na wchodzenie w świat snów. Złodziej Cobb ma za zadanie wszczepić myśl do śpiącego umysłu.", 
+        "watched": false
+    }, 
+    {
+        "id": 2,
+        "title": "Marsjanin",
+        "year": 2015,
+        "genre": "Sci-Fi",
+        "description": "Po nieudanej ekspedycji Mark zostaje sam na Marsie. Mimo znikomych zapasów oraz zerwanej łączności z dowództwem mężczyzna stara się przetrwać w trudnych warunkach.",
+        "watched": false
+    }
+]
